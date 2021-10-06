@@ -3,7 +3,7 @@ import java.util.Scanner;
 /*
  * Create un applicazione che chieda in input una somma di denaro, una percentuale di interesse ed
  * il numero di anni per il quale la somma di denaro verrà mantenuta dalla banca.
- * Per ogni anno la somma di denaro crescerà del 20% sul totale.
+ * Per ogni anno la somma di denaro crescerà della percentuale di interesse indicata.
  * Calcolare la somma finale. Utilizzare sottoprogrammi per i valori da leggere, il calcolo della
  * somma finale e la stampa.
  */
